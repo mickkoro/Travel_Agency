@@ -16,8 +16,8 @@ Installation and launch
 ## Участники проекта
 | Имя | Роль | Телеграм |
 | :---: | :---: | :---: |
-| Кузнецова Юлия |  | [@yuliaKUA](https://t.me/yuliaKUA) |
-| Чигасова Мария |  | [marymeeeee](https://t.me/marymeeeee) |
+| Кузнецова Юлия | Архитектор, Разработчик, Работа с документами | [@yuliaKUA](https://t.me/yuliaKUA) |
+| Чигасова Мария | Архитектор, Тестировщик, Работа с документами | [@marymeeeee](https://t.me/marymeeeee) |
 
 ## Описание проблемы
 
