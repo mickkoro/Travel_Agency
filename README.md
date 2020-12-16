@@ -38,7 +38,7 @@ Installation and launch
 ![Image alt](https://github.com/mickkoro/Travel_Agency/blob/main/report/1.png)
 
 Схема базы данных
-![Image alt](https://github.com/mickkoro/Travel_Agency/blob/main/report/0.png)
+![Image alt](https://github.com/mickkoro/Travel_Agency/blob/main/report/0.jpg)
 
 ## Кодирование и отладка
 ### Нами были выбраны и использованы следующие инструменты для разработки:
